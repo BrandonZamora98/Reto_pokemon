@@ -1,0 +1,49 @@
+
+.contenedor-texto-html{
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.contenedor-interno{
+    margin-left: 50px;
+}
+
+.contenedor-lista{
+    border: solid 1px;
+    border-radius: 5px;
+    padding-right: 40px;
+    background-color: aliceblue;
+    width: 200px;
+}
+
+.contenedor-arcoiris{
+    padding: 50px;
+    background-color: rgb(222, 233, 233);
+    border-radius: 10px;
+    
+}
+
+table, td, th{
+    border: 1px solid black;
+
+}
+th{
+    font-family: helvetica,arial,sans-serif;;
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+tbody{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.td-descripcion{
+    padding: 20px; 
+}
+a{
+    font-size: small;
+}
+
